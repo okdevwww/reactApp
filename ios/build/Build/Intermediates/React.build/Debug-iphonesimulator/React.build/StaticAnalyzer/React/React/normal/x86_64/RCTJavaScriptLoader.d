@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/mobiledev/Documents/work/Keith/reactApp/node_modules/react-native/React/Base/RCTPerformanceLogger.h
