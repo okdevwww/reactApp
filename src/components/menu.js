@@ -89,19 +89,19 @@ export default class Menu extends React.Component {
     onSelMenuItem =(index) => {
         if(index==0){
             this.setState({style1:styles.activeMenuText, style2:styles.menuText,style3:styles.menuText,style4:styles.menuText});
-            // this.props.navigation.navigate('Playlist');
+            this.props.navigation.navigate('Playlist');
         }
         if(index==1){
             this.setState({style1:styles.menuText, style2:styles.activeMenuText,style3:styles.menuText,style4:styles.menuText});
-            // this.props.navigation.navigate('Wallet');
+            this.props.navigation.navigate('Wallet');
         }
         if(index==2){
             this.setState({style1:styles.menuText, style2:styles.menuText,style3:styles.activeMenuText,style4:styles.menuText});
-            // this.props.navigation.navigate('Profile');
+            this.props.navigation.navigate('Profile');
         }
         if(index==3){
             this.setState({style1:styles.menuText, style2:styles.menuText,style3:styles.menuText,style4:styles.activeMenuText});
-            // this.props.navigation.navigate('Ranking');
+            this.props.navigation.navigate('Ranking');
         }
     }
 
@@ -130,6 +130,7 @@ export default class Menu extends React.Component {
             inputRange: [0, 1],
             outputRange: ['0deg', '540deg']
         })
+        const { navigate } = this.props.navigation;    
 
         return (
              <View style={{flexDirection:'row', width:'100%', justifyContent:'center', alignItems:'center',position:'absolute', bottom:0}}>

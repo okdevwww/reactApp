@@ -18,7 +18,7 @@ export default class profile extends React.Component {
         const { navigate } = this.props.navigation;    
         return (
              <Image source={require( '../images/background.png' )} style={styles.backgroundImage}>
-               
+               <Text style={{color:'#ffffff', fontSize:30, backgroundColor:'transparent'}} >profile</Text>
             </Image>
 
             

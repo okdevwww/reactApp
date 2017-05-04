@@ -25,7 +25,7 @@ export default class Home extends React.Component {
          
         return (
              <Image source={require( '../images/background.png' )} style={styles.backgroundImage}>
-                <Menu/>
+                <Menu {...this.props}/>
                 <View style={{width:'100%', padding:20}}>
                     <Text style={styles.label}>How Shall we Greet You?</Text>
                     <TextInput onChangeText={(text)=>this.this.setState({name:texts})} placeholder={'Enter Nickname_'} placeholderTextColor={'#ffffff'} style={styles.text}></TextInput>
